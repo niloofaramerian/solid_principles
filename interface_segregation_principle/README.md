@@ -1,7 +1,7 @@
 # Interface Segregation Principle (ISP)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69586214/229209414-8dfd3eb1-c1e3-4e12-81e9-1b2375cf5276.png" alt="Dependency Inversion Principle" width="700">
+  <img src="https://user-images.githubusercontent.com/69586214/229209414-8dfd3eb1-c1e3-4e12-81e9-1b2375cf5276.png" alt="Interface Segregation Principle" width="700">
   <br>
 </p>
 
