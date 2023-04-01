@@ -1,7 +1,7 @@
 # Liskove Substitution Principle (LSP)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69586214/229215706-8ad32c87-4c0e-49e3-b0d2-f2b37cca0684.png" alt="Interface Segregation Principle" width="700">
+  <img src="https://user-images.githubusercontent.com/69586214/229215706-8ad32c87-4c0e-49e3-b0d2-f2b37cca0684.png" alt="Liskove Substitution Principle" width="700">
   <br>
 </p>
 
