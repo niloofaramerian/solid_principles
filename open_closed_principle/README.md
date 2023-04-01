@@ -1,7 +1,7 @@
 # Open-Closed Principle (OCP)
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/69586214/229273111-eac7a5b5-e9f2-4eb6-a8d7-16b3594252eb.png" alt="Interface Segregation Principle" width="700">
+  <img src="https://user-images.githubusercontent.com/69586214/229273111-eac7a5b5-e9f2-4eb6-a8d7-16b3594252eb.png" alt="Open-Closed Principle" width="700">
   <br>
 </p>
 
