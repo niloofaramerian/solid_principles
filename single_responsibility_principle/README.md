@@ -9,9 +9,9 @@ The first principle of SOLID is the **Single Responsibility Principle**, abbrevi
 
 This principle states that :
 
-> A class should have one and only one reason to change, meaning that a class should have only one job.
+> Every class, module or function in a program should have one responsibility in a program.
 
-In other words, Classes can have different features, but all of them must be related to each other.
+In other words, every class should have only one responsibility and one reason to change.
 
 
 <br>
